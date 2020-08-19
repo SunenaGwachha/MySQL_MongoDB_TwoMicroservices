@@ -1,6 +1,7 @@
 # MySQL_MongoDB_TwoMicroservices
 
 InBrowser Goto this link
+
     http://localhost:9091/swagger-ui/#/        for student_mongodb
    
    http://localhost:9092/swagger-ui/#	for address_mongodb
